@@ -1,6 +1,7 @@
 import bpy,os,time,json
 R=os.path.dirname(os.path.abspath(__file__));s=bpy.context.scene
 s.render.use_persistent_data=False;s.render.engine='CYCLES';s.cycles.device='CPU';s.render.resolution_x=1920;s.render.resolution_y=1080;s.render.resolution_percentage=100;s.cycles.samples=32;s.cycles.adaptive_min_samples=8;s.cycles.use_denoising=True;s.cycles.use_adaptive_sampling=True;s.cycles.adaptive_threshold=.10;s.render.threads_mode='FIXED';s.render.threads=4
+s.cycles.use_auto_tile=True;s.cycles.tile_size=256
 s.render.image_settings.file_format='PNG';s.render.image_settings.color_mode='RGB';s.render.image_settings.color_depth='8';s.render.image_settings.compression=25
 os.makedirs(R+'/native',exist_ok=True)
 for fr in range(463,480):
