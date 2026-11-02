@@ -1,0 +1,17 @@
+Models
+- Audi Quattro Race Car by Nieve5677: CC BY 4.0
+
+Sound effects — CC0
+- Performance Cars, muted.io/Sébastien: engine samples 038 and 039. Not verified as recordings of these exact car models.
+- Falling Sheet Steel Bar 4, Joseph Sardin: metallic landing.
+- Grinding Metal Barrier Closure 2, Joseph Sardin: short metallic ticks.
+- Screeching Tires 4, Dorian Clair: landing tyre squeal.
+- Wind: generated procedurally for the mix.
+Music
+- Racket and Bang, TeknoAXE: CC BY 4.0. Credit the artist, link the licence and state that an edited excerpt was used.
+Fonts and code
+- Nimbus Sans Narrow Bold: title; Artifex/URW Base35 font licence.
+- DejaVu Sans: watermark; Bitstream Vera licence with public-domain changes.
+- Animation and sound-design code: the published Python and shell scripts.
+
+FINAL_V7_SOURCES_AND_CREDITS.txt
